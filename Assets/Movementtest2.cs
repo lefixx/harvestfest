@@ -58,7 +58,7 @@ public class Movementtest2 : MonoBehaviour
 	private Vector2 targetSpeed;
 	private Vector2 targetDirection;
 	// float acceleration = 0.6;
-	float maxSpeed = 30;
+	public float maxSpeed = 10;
 	// float speed = 0;
 
     void Update()
