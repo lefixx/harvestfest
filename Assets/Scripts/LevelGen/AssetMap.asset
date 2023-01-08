@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11da506ff7a0b343a3ae4309ab5ae26, type: 3}
+  m_Name: AssetMap
+  m_EditorClassIdentifier: 
+  HouseTop:
+  - {fileID: -131660563, guid: 14481090cf394014ca72f657e1271300, type: 3}
+  - {fileID: 1262588102, guid: 14481090cf394014ca72f657e1271300, type: 3}
+  - {fileID: -638763947, guid: 14481090cf394014ca72f657e1271300, type: 3}
+  - {fileID: 14127335, guid: 14481090cf394014ca72f657e1271300, type: 3}
+  - {fileID: 3047037, guid: 14481090cf394014ca72f657e1271300, type: 3}
+  - {fileID: -1498483821, guid: 14481090cf394014ca72f657e1271300, type: 3}
+  Ground:
+  - {fileID: -165899967, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  - {fileID: -698447151, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  - {fileID: -1792200559, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  - {fileID: -1582979770, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  - {fileID: -132817799, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  - {fileID: -799793266, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  - {fileID: -2113485792, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  - {fileID: -1751420320, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  - {fileID: 2050914759, guid: 493df1a144e147449a2244ea541862e5, type: 3}
+  Road:
+  - {fileID: -522518802, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  - {fileID: 1702979925, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  - {fileID: -2036787801, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  - {fileID: 1643876768, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  - {fileID: -427628311, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  - {fileID: 1257897503, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  - {fileID: 554147078, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  - {fileID: -820755593, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  - {fileID: 348777711, guid: c44200acf8ea4054f9dc377056304ef1, type: 3}
+  HouseDoor:
+  - {fileID: -748999767, guid: 14481090cf394014ca72f657e1271300, type: 3}
+  HouseFront:
+  - {fileID: 1423131486, guid: 14481090cf394014ca72f657e1271300, type: 3}
+  - {fileID: 1610270022, guid: 14481090cf394014ca72f657e1271300, type: 3}
